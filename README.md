@@ -20,3 +20,10 @@ The project I have built largely implements **Modern Portfolio Theory (MPT)** to
 This project is a labor of love. I started as a 'what if' and evolved into a tool that I am proud to share with the world :)
 
 Thank you for checking out my work.
+
+## Screenshots (Visualizations)
+<img width="1103" height="600" alt="daily_log_returns_distribution" src="https://github.com/user-attachments/assets/53531cfe-3dc9-420b-a00d-ec1313289937" />
+<img width="1103" height="600" alt="corr_matrix_daily_log_returns" src="https://github.com/user-attachments/assets/c3a25d4b-abcc-42e6-88c4-4985b2db2149" />
+<img width="1103" height="700" alt="efficient_frontier_visualization" src="https://github.com/user-attachments/assets/46063a9b-d63f-4702-8190-8b5d7b6258e1" />
+<img width="700" height="500" alt="allocation_pie_charts" src="https://github.com/user-attachments/assets/bd73db48-25c2-4c66-a93a-04c8973814e2" />
+<img width="1103" height="600" alt="comparison_efficient_frontier" src="https://github.com/user-attachments/assets/8b88ae8a-cf96-48fb-bcab-7b4c1015c9a3" />
