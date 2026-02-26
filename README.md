@@ -17,9 +17,9 @@ The project I have built largely implements **Modern Portfolio Theory (MPT)** to
 - **Financial API:** yfinance (Yahoo Finance)
 
 ## Author's Note
-This project is a labor of love. I started as a 'what if' and evolved into a tool that I am proud to share with the world :)
+This project is a labor of love. I started as a 'what if' and evolved into a tool that I am proud to share with the world.
 
-Thank you for checking out my work.
+To test the interactive visualizations of the project, please download the file **us_portfolio_optimization_ad** in your computer storage and run it in Jupyter Notebook or VS Code. Thank you for checking out my work :)
 
 ## Screenshots (Visualizations)
 <img width="1103" height="600" alt="daily_log_returns_distribution" src="https://github.com/user-attachments/assets/53531cfe-3dc9-420b-a00d-ec1313289937" />
